@@ -1,0 +1,33 @@
+ div{
+    width: 30%;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+ }
+ div .show{
+    width: 91%;
+    height: 80px;
+    margin-left: 33px;
+    /* margin: auto; */
+    background-color: rgb(175, 175, 199);
+ }
+ div ul{
+    display: flex;
+    list-style: none;
+    /* flex-direction: column; */
+    justify-content: center;
+    align-items: center;
+    /* background-color: azure; */
+}
+li{
+    background-color: rgb(120, 231, 194);
+    width: 90px;
+    height: 90px;
+    font-weight: 700;
+    border: 1px solid black;
+    margin: 2px 2px;
+    align-items: center;
+    padding-left: 37px;
+    padding-top: 30px;
+    justify-content: center;
+}

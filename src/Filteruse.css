@@ -1,0 +1,12 @@
+div ul{
+    gap: 10px;
+    display: flex;
+    
+}
+li{
+   list-style: none;
+   margin-top: 30px;
+   border: 1px solid black;
+   margin-left: 12px;
+   padding: 2px 5px;
+}

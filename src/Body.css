@@ -1,0 +1,24 @@
+.box
+{
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(22, 54, 114);
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+}
+.weatherbox{
+    width: 30%;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    height: 600px;
+    background-color: rgb(126, 121, 158);
+}
+.weatherbox input{
+    align-items: center;
+    justify-content: center;
+    margin-left: 23%;
+    padding: 6px 15px;
+    margin-top: 50%;
+}
